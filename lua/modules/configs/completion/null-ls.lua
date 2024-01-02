@@ -27,7 +27,7 @@ return function()
 				"javascript",
 				"typescriptreact",
 				"javascriptreact",
-				"yaml",
+				-- "yaml",
 				"html",
 				"css",
 				"scss",
